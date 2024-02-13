@@ -37,4 +37,8 @@ Outra funcionalidade do Vision Studio é o reconhecimento de rostos em imagens.
 
 <img src="https://github.com/Campejo/Projeto-DIO---Reconhecimento-Facial-e-transforma-o-de-imagens-em-Dados-no-Azure-ML/blob/main/imagens/passo%203,%20parte%203.png?raw=true">
 
+### Insights:
+
+Os mecanismos disponíveis com o Vision Studio permitem uma gama de possibilidades, desde leitura de arquivos para facilitar o processo de armazenamento de quantidades exorbitantes de documentos, até o reconhecimento facial que pode ser usado para identifciar pessoas na rua ou em estabelecimentos e informar a uma autoridade caso necessário, por exemplo.
+
 
